@@ -1,0 +1,11 @@
+{
+ "version": "0.1",
+ "name": "Hello FirefoxOS",
+ "description": "Hello world app for Firefox OS",
+ "launch_path": "/index.html",
+ "developer": {
+   "name": "Robert Bost",
+   "url": "https://github.com/bostrt/HelloFirefoxOS"
+ },
+ "default_locale": "en"
+}
